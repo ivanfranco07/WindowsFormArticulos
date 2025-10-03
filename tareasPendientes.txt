@@ -1,0 +1,7 @@
+-Crear el método agregar artículo de la clase ArticuloNegocio X
+-Crear el método modificar artículo de la clase ArticuloNegocio X
+-Crear el método filtrar artículo de la clase ArticuloNegocio X
+-Crear el método eliminar artículo de la clase ArticuloNegocio X
+-No permitir que se pueda escribir en los Conmbo Box X
+-Crear un filtrado específico por criterios X
+-Arreglar el validador de números
