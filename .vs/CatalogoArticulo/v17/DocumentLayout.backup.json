@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\",
+  "WorkspaceRootPath": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|c:\\users\\ivanf\\source\\repos\\c#\\catalogoarticulo\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\tareasPendientes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|c:\\users\\ivanf\\source\\repos\\c#\\windowsformarticulos\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\tareasPendientes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:tareasPendientes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,15 +62,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-03T23:13:52.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "tareasPendientes.txt",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\tareasPendientes.txt",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\tareasPendientes.txt",
               "RelativeDocumentMoniker": "tareasPendientes.txt",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\tareasPendientes.txt",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\tareasPendientes.txt",
               "RelativeToolTip": "tareasPendientes.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -74,37 +91,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp\\Form1.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAiwI8AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAgwF8AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T04:26:52.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ArticuloNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Negocio\\ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\ArticuloNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\ArticuloNegocio.cs",
               "RelativeToolTip": "Negocio\\ArticuloNegocio.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAhwHIAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAHcAAAAAAAAAAAD4v4sAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T04:28:19.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WindowsFormsApp\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T04:20:30.093Z",
@@ -112,11 +129,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AccesoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Negocio\\AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\AccesoDatos.cs",
               "RelativeToolTip": "Negocio\\AccesoDatos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,22 +142,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "frmAgregarArticulo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\frmAgregarArticulo.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp\\frmAgregarArticulo.cs",
               "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "WindowsFormsApp\\frmAgregarArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T12:57:37.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "frmAgregarArticulo.cs",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\frmAgregarArticulo.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp\\frmAgregarArticulo.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\frmAgregarArticulo.cs",
               "RelativeToolTip": "WindowsFormsApp\\frmAgregarArticulo.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAiwGEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,11 +165,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MarcaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Negocio\\MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\MarcaNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\MarcaNegocio.cs",
               "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,11 +177,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Dominio\\Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Dominio\\Articulo.cs",
               "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Dominio\\Articulo.cs",
               "RelativeToolTip": "Dominio\\Articulo.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAwAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,11 +189,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CategoriaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Negocio\\CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\CategoriaNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\CategoriaNegocio.cs",
               "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAowAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,11 +201,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Marca.cs",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Dominio\\Marca.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Dominio\\Marca.cs",
               "RelativeDocumentMoniker": "Dominio\\Marca.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Dominio\\Marca.cs",
               "RelativeToolTip": "Dominio\\Marca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Dominio\\Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Dominio\\Categoria.cs",
               "RelativeDocumentMoniker": "Dominio\\Categoria.cs",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\Dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Dominio\\Categoria.cs",
               "RelativeToolTip": "Dominio\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

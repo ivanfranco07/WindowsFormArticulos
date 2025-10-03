@@ -112,7 +112,7 @@ namespace Negocio
             }
             datos.CerrarConexion();
         }
-        public List<Articulo> filtrarArticulos(string campo, string categoria, string parametro)
+        public List<Articulo> filtrarArticulos(string campo, string criterio, string parametro)
         {
             List<Articulo> listaArticulos = new List<Articulo>();
             AccesoDatos datos = new AccesoDatos();
@@ -120,11 +120,11 @@ namespace Negocio
             switch (campo)
             {
                 case "Marca":
-                    if (categoria == "Empieza con")
+                    if (criterio == "Empieza con")
                     {
                         consulta += "m.Descripcion like '" + parametro + "%'";
                     }
-                    else if (categoria == "Termina con")
+                    else if (criterio == "Termina con")
                     {
                         consulta += "m.Descripcion like '%" + parametro + "'";
                     }
@@ -135,11 +135,11 @@ namespace Negocio
                     break;
                 
                 case "Categoría":
-                    if (categoria == "Empieza con")
+                    if (criterio == "Empieza con")
                     {
-                        consulta += "c.Descripcion like '" + parametro + " '";
+                        consulta += "c.Descripcion like '" + parametro + "%'";
                     }
-                    else if (categoria == "Termina con")
+                    else if (criterio == "Termina con")
                     {
                         consulta += "c.Descripcion like '%" + parametro + "'";
                     }
@@ -150,11 +150,11 @@ namespace Negocio
                     break;
 
                 default:
-                    if (categoria == "Mayor a")
+                    if (criterio == "Mayor a")
                     {
                         consulta += "a.Precio > " + parametro;
                     }
-                    else if (categoria == "Menor a")
+                    else if (criterio == "Menor a")
                     {
                         consulta += "a.Precio <" + parametro;
                     }

@@ -118,7 +118,7 @@
             // 
             // btnEliminarFisico
             // 
-            this.btnEliminarFisico.Location = new System.Drawing.Point(367, 477);
+            this.btnEliminarFisico.Location = new System.Drawing.Point(356, 477);
             this.btnEliminarFisico.Name = "btnEliminarFisico";
             this.btnEliminarFisico.Size = new System.Drawing.Size(145, 31);
             this.btnEliminarFisico.TabIndex = 8;
