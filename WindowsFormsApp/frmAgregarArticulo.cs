@@ -76,7 +76,7 @@ namespace WindowsFormsApp
             {
                 if (txtCodigo.Text == "" || txtNombre.Text == "" || txtDescripcion.Text == "" || txtPrecio.Text == "")
                 {
-                    MessageBox.Show("Por favor, completar todos los campos antes de agregar el artículo.");
+                    MessageBox.Show("Por favor, completar todos los campos del artículo.");
                 }
                 else
                 {

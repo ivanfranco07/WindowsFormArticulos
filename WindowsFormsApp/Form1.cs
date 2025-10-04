@@ -34,7 +34,7 @@ namespace WindowsFormsApp
             ArticuloNegocio articuloNegocio = new ArticuloNegocio();
             try
             {
-                articulos = articuloNegocio.ListarArticulos();
+                articulos = articuloNegocio.listarArticulos();
                 dgvArticulos.DataSource = articulos;
             }
             catch (Exception ex)
@@ -87,7 +87,13 @@ namespace WindowsFormsApp
             if (filtro == "")
                 auxiliarArticulos = articulos;
             else
-                auxiliarArticulos = articulos.FindAll(x => x.Nombre.ToUpper().Contains(filtro.ToUpper()) || x.Descripcion.ToUpper().Contains(filtro.ToUpper()) || x.Codigo.ToUpper().Contains(filtro.ToUpper()));
+                //Validador de nulos traído de ChatGpt
+                auxiliarArticulos = articulos.FindAll(x =>
+            (x.Nombre?.ToUpper() ?? "").Contains(filtro.ToUpper()) ||
+            (x.Descripcion?.ToUpper() ?? "").Contains(filtro.ToUpper()) ||
+            (x.Codigo?.ToUpper() ?? "").Contains(filtro.ToUpper()));
+
+            //auxiliarArticulos = articulos.FindAll(x => x.Nombre.ToUpper().Contains(filtro.ToUpper()) || x.Descripcion.ToUpper().Contains(filtro.ToUpper()) || x.Codigo.ToUpper().Contains(filtro.ToUpper()));
 
             dgvArticulos.DataSource = null;
             dgvArticulos.DataSource = auxiliarArticulos;

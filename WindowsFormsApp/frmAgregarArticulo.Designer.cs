@@ -215,6 +215,7 @@
             this.pbAgregarArticulo.Location = new System.Drawing.Point(490, 29);
             this.pbAgregarArticulo.Name = "pbAgregarArticulo";
             this.pbAgregarArticulo.Size = new System.Drawing.Size(286, 285);
+            this.pbAgregarArticulo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbAgregarArticulo.TabIndex = 9;
             this.pbAgregarArticulo.TabStop = false;
             // 
