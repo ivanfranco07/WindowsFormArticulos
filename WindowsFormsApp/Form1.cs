@@ -40,7 +40,7 @@ namespace WindowsFormsApp
             catch (Exception ex)
             {
 
-                throw ex;
+                MessageBox.Show(ex.ToString());
             }
         }
         private void ocultarColumna()
@@ -56,7 +56,7 @@ namespace WindowsFormsApp
             }
             catch (Exception)
             {
-                pbArticulos.Load("https://previews.123rf.com/images/vectorknight/vectorknight1711/vectorknight171100101/90815439-page-not-found-concept-404-error-web-page-with-cute-cartoon-face-flat-line-illustration-concept.jpg");
+                pbArticulos.Load("https://xentra.glomastore.mx/img/sin_imagen.png");
             }
         }
 

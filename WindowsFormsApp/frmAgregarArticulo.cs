@@ -10,12 +10,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Configuration;
+using System.IO;
 
 namespace WindowsFormsApp
 {
     public partial class frmAgregarArticulo : Form
     {
         Articulo articulo= null;
+        OpenFileDialog openFileDialog = null;
         public frmAgregarArticulo()
         {
             InitializeComponent();
@@ -95,6 +98,11 @@ namespace WindowsFormsApp
                         articuloNegocio.agregarArticulo(articulo);
                         MessageBox.Show("Artículo agregado exitosamente");
                     }
+                    //Forma de guardar la imagen si fue cargada localmente
+                    if (openFileDialog != null && !(txtUrl.Text.ToUpper().Contains("HTTP"))) 
+                    {
+                        File.Copy(openFileDialog.FileName, ConfigurationManager.AppSettings["catalogoArticuloImg"] + openFileDialog.SafeFileName);
+                    }
                     Close();
                 }
             }
@@ -102,6 +110,28 @@ namespace WindowsFormsApp
             {
 
                 MessageBox.Show(ex.ToString());
+            }
+        }
+        private void agregarImagen(string direccion)
+        {
+            try
+            {
+                pbAgregarArticulo.Load(direccion);
+            }
+            catch (Exception)
+            {
+                pbAgregarArticulo.Load("https://xentra.glomastore.mx/img/sin_imagen.png"); ;
+            }
+        }
+
+        private void btnAgregarImagen_Click(object sender, EventArgs e)
+        {
+            openFileDialog = new OpenFileDialog();
+            openFileDialog.Filter = "jpg|* .jpg|png|*.png";
+            if (openFileDialog.ShowDialog() == DialogResult.OK)
+            {
+                txtUrl.Text = openFileDialog.FileName;
+                agregarImagen(openFileDialog.FileName);
             }
         }
     }

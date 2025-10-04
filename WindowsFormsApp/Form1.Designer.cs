@@ -71,7 +71,7 @@
             // pbArticulos
             // 
             this.pbArticulos.BackColor = System.Drawing.Color.Transparent;
-            this.pbArticulos.Location = new System.Drawing.Point(939, 148);
+            this.pbArticulos.Location = new System.Drawing.Point(924, 148);
             this.pbArticulos.Name = "pbArticulos";
             this.pbArticulos.Size = new System.Drawing.Size(309, 309);
             this.pbArticulos.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -196,7 +196,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1260, 520);
+            this.ClientSize = new System.Drawing.Size(1272, 520);
             this.Controls.Add(this.btnAplicarFiltro);
             this.Controls.Add(this.txtFiltroEspecifico);
             this.Controls.Add(this.cbCriterio);

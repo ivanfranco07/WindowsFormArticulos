@@ -44,6 +44,9 @@
             this.cbCategoria = new System.Windows.Forms.ComboBox();
             this.btnAgregarArticulo = new System.Windows.Forms.Button();
             this.btnCancelarArticulo = new System.Windows.Forms.Button();
+            this.pbAgregarArticulo = new System.Windows.Forms.PictureBox();
+            this.btnAgregarImagen = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.pbAgregarArticulo)).BeginInit();
             this.SuspendLayout();
             // 
             // lblCodigo
@@ -207,11 +210,31 @@
             this.btnCancelarArticulo.UseVisualStyleBackColor = true;
             this.btnCancelarArticulo.Click += new System.EventHandler(this.btnCancelarArticulo_Click);
             // 
+            // pbAgregarArticulo
+            // 
+            this.pbAgregarArticulo.Location = new System.Drawing.Point(490, 29);
+            this.pbAgregarArticulo.Name = "pbAgregarArticulo";
+            this.pbAgregarArticulo.Size = new System.Drawing.Size(286, 285);
+            this.pbAgregarArticulo.TabIndex = 9;
+            this.pbAgregarArticulo.TabStop = false;
+            // 
+            // btnAgregarImagen
+            // 
+            this.btnAgregarImagen.Location = new System.Drawing.Point(412, 245);
+            this.btnAgregarImagen.Name = "btnAgregarImagen";
+            this.btnAgregarImagen.Size = new System.Drawing.Size(39, 28);
+            this.btnAgregarImagen.TabIndex = 10;
+            this.btnAgregarImagen.Text = "+";
+            this.btnAgregarImagen.UseVisualStyleBackColor = true;
+            this.btnAgregarImagen.Click += new System.EventHandler(this.btnAgregarImagen_Click);
+            // 
             // frmAgregarArticulo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(497, 410);
+            this.ClientSize = new System.Drawing.Size(837, 410);
+            this.Controls.Add(this.btnAgregarImagen);
+            this.Controls.Add(this.pbAgregarArticulo);
             this.Controls.Add(this.btnCancelarArticulo);
             this.Controls.Add(this.btnAgregarArticulo);
             this.Controls.Add(this.cbCategoria);
@@ -234,6 +257,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Agregar artículo";
             this.Load += new System.EventHandler(this.frmAgregarArticulo_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.pbAgregarArticulo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -257,5 +281,7 @@
         private System.Windows.Forms.ComboBox cbCategoria;
         private System.Windows.Forms.Button btnAgregarArticulo;
         private System.Windows.Forms.Button btnCancelarArticulo;
+        private System.Windows.Forms.PictureBox pbAgregarArticulo;
+        private System.Windows.Forms.Button btnAgregarImagen;
     }
 }
