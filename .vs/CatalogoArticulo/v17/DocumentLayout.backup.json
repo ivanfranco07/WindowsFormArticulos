@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\tareasPendientes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:tareasPendientes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|c:\\users\\ivanf\\source\\repos\\c#\\windowsformarticulos\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\tareasPendientes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:tareasPendientes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -70,20 +70,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\App.config",
-              "RelativeDocumentMoniker": "WindowsFormsApp\\App.config",
-              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\App.config",
-              "RelativeToolTip": "WindowsFormsApp\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-04T00:15:43.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
@@ -96,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ArticuloNegocio.cs",
               "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\ArticuloNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
@@ -109,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
@@ -121,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AccesoDatos.cs",
               "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\Negocio\\AccesoDatos.cs",
               "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
@@ -134,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmAgregarArticulo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\frmAgregarArticulo.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp\\frmAgregarArticulo.cs",
@@ -146,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmAgregarArticulo.cs",
               "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\frmAgregarArticulo.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp\\frmAgregarArticulo.cs",
@@ -159,15 +146,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "tareasPendientes.txt",
               "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\tareasPendientes.txt",
               "RelativeDocumentMoniker": "tareasPendientes.txt",
               "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\tareasPendientes.txt",
               "RelativeToolTip": "tareasPendientes.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-09-25T13:40:56.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\App.config",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\App.config",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\WindowsFormArticulos\\WindowsFormsApp\\App.config",
+              "RelativeToolTip": "WindowsFormsApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-04T00:15:43.096Z",
               "EditorCaption": ""
             },
             {

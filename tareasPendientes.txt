@@ -4,5 +4,5 @@
 -Crear el método eliminar artículo de la clase ArticuloNegocio X
 -No permitir que se pueda escribir en los Conmbo Box X
 -Crear un filtrado específico por criterios X
--Agregar la opción de levantar imágenes locales
--Validar las lecturas nulas de la base de datos
+-Agregar la opción de levantar imágenes locales X
+-Validar las lecturas nulas de la base de datos 
