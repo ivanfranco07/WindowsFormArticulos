@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B0A49B-12CC-4156-8BDB-6C573E174F64}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E4892AC-30DE-4D4F-A7B3-57A0E0C295CD}|Dominio\\Dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|c:\\users\\ivanf\\documents\\mis_documentos\\proyectos\\catalogoarticulo\\windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2091CA1E-8682-4AE2-BFDD-2A53FD3F26CB}|WindowsFormsApp\\WindowsFormsApp.csproj|solutionrelative:windowsformsapp\\frmagregararticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Dominio\\Categoria.cs",
+              "RelativeToolTip": "Dominio\\Categoria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:20:23.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "Dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Dominio\\Marca.cs",
+              "RelativeToolTip": "Dominio\\Marca.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:21:15.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\WindowsFormsApp\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewCQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:26:52.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "Negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:28:19.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "Negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:08:09.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:08:05.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "Negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:07:41.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:16:31.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAgregarArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\frmAgregarArticulo.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs",
+              "RelativeToolTip": "WindowsFormsApp\\frmAgregarArticulo.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAiwGEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:59:45.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAgregarArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\frmAgregarArticulo.cs",
+              "ToolTip": "C:\\Users\\ivanf\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\c#\\CatalogoArticulo\\WindowsFormsApp\\frmAgregarArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:57:37.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\WindowsFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivanf\\Documents\\mis_documentos\\Proyectos\\CatalogoArticulo\\WindowsFormsApp\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WindowsFormsApp\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:20:30.093Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
